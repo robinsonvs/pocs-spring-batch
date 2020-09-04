@@ -1,0 +1,6 @@
+Check data in the spring batch metadata tables
+1 - select * from BATCH_JOB_INSTANCE
+2 - select * from BATCH_JOB_EXECUTION
+3 - select * from BATCH_JOB_EXECUTION_CONTEXT
+4 - select * from BATCH_STEP_EXECUTION
+5 - select * from BATCH_STEP_EXECUTION_CONTEXT
