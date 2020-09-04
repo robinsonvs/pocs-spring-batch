@@ -4,3 +4,6 @@ Check data in the spring batch metadata tables
 3 - select * from BATCH_JOB_EXECUTION_CONTEXT
 4 - select * from BATCH_STEP_EXECUTION
 5 - select * from BATCH_STEP_EXECUTION_CONTEXT
+
+Check params in spring batch tables
+1 - select * from BATCH_JOB_EXECUTION_PARAMS
