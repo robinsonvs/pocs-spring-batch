@@ -1,4 +1,4 @@
-package com.severo.firstspringbatchapplication;
+package com.severo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
